@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7be7661.css",
-    "main.js": "/static/js/main.20fe9a13.js",
-    "static/media/mainpageimage.jpg": "/static/media/mainpageimage.2068ba82dfd096fb7d51.jpg",
-    "static/media/istockphoto-1226588286-612x612.jpg": "/static/media/istockphoto-1226588286-612x612.db79e03d65f4ff4082d7.jpg",
-    "static/media/AvatarMaker.png": "/static/media/AvatarMaker.62356a7ac8c6d62ae283.png",
-    "index.html": "/index.html",
-    "main.a7be7661.css.map": "/static/css/main.a7be7661.css.map",
-    "main.20fe9a13.js.map": "/static/js/main.20fe9a13.js.map"
+    "main.css": "/LYPortfolioReact/static/css/main.3227c541.css",
+    "main.js": "/LYPortfolioReact/static/js/main.c9bb3537.js",
+    "static/media/mainpageimage.jpg": "/LYPortfolioReact/static/media/mainpageimage.2068ba82dfd096fb7d51.jpg",
+    "static/media/istockphoto-1226588286-612x612.jpg": "/LYPortfolioReact/static/media/istockphoto-1226588286-612x612.db79e03d65f4ff4082d7.jpg",
+    "static/media/AvatarMaker.png": "/LYPortfolioReact/static/media/AvatarMaker.62356a7ac8c6d62ae283.png",
+    "index.html": "/LYPortfolioReact/index.html",
+    "main.3227c541.css.map": "/LYPortfolioReact/static/css/main.3227c541.css.map",
+    "main.c9bb3537.js.map": "/LYPortfolioReact/static/js/main.c9bb3537.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7be7661.css",
-    "static/js/main.20fe9a13.js"
+    "static/css/main.3227c541.css",
+    "static/js/main.c9bb3537.js"
   ]
 }
