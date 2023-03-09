@@ -4,7 +4,7 @@ import Project from "../Project/Project";
 import projectData from "../../data/projects.json";
 
 export default function Portfolio() {
-  const [projectList, setProjectList] = useState(projectData);
+  const [projectList] = useState(projectData);
   return (
     <section>
       <h1>Skills / Projects</h1>
