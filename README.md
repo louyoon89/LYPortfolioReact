@@ -33,6 +33,6 @@ npm start
 
 # Project Link
 
-The project was uploaded to GitHub repository: https://github.com/louyoon89/PortfolioV2React  
+GitHub repository: https://github.com/louyoon89/LYPortfolioReact  
 
-You can access the deployed application: https://louyoon89.github.io/PortfolioV2/
+Live Link:  https://louyoon89.github.io/LYPortfolioReact/
