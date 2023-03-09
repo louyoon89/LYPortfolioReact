@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Beerstack",
+    "image": "/images/mainpageimage.jpg",
+    "github": "https://github.com/louyoon89/BeerStack",
+    "deployment": "https://socal-beerstack.herokuapp.com/"
+
+  },
+  {
+    "name": "So-Cal Brew Hoppers",
+    "image": "/images/mainpageimage.jpg",
+    "github": "https://github.com/louyoon89/Bootcamp-Project-1",
+    "deployment": "https://isaacagonzalez.github.io/Bootcamp-Project-1/"
+
+  },
+  {
+    "name": "Weather Forecast Dashboard",
+    "image": "/images/mainpageimage.jpg",
+    "github": "https://github.com/louyoon89/Weather-Dashboard-Five-Day-Forecast",
+    "deployment": "https://louyoon89.github.io/Weather-Dashboard-Five-Day-Forecast/"
+
+  },
+  {
+    "name": "Work Day Scheduler",
+    "image": "/images/mainpageimage.jpg",
+    "github": "https://github.com/louyoon89/Week-5-Challenge-API-Planner",
+    "deployment": "https://louyoon89.github.io/Week-5-Challenge-API-Planner/"
+
+  },
+  {
+    "name": "NFL Team Quiz",
+    "image": "/images/mainpageimage.jpg",
+    "github": "https://github.com/louyoon89/Week-4-Challenge-Web-APIs-Code-Quiz",
+    "deployment": "https://louyoon89.github.io/Week-4-Challenge-Web-APIs-Code-Quiz/"
+
+  },
+  {
+    "name": "Random Password Generator",
+    "image": "/images/mainpageimage.jpg",
+    "github": "https://github.com/louyoon89/WEEK-3-Challenge",
+    "deployment": "https://louyoon89.github.io/WEEK-3-Challenge/"
+
+  }
+]
+

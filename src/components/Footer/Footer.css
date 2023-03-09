@@ -1,0 +1,42 @@
+.sectiontitle {
+  position: absolute;
+  display: flex;
+  flex: wrap;
+  padding: 2rem;
+  height: 100px;
+  width: 150px;
+}
+
+.contactme {
+  position: relative;
+  margin-top: 50px;
+  border: dotted 2px var(--purp);
+}
+
+.contactme .sectiontitle {
+  height: 100px;
+  
+}
+
+.mycontact {
+
+  padding: 50px;
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 1.5rem;
+  margin-left: 250px;
+  margin-right: 50px;
+  width: 75%;
+  
+}
+
+.mycontact li a {
+  font-size: large;
+  color: var(--turq);
+  padding: 15px;
+  border-left: dotted 2px var(--purp);
+  border-right: dotted 2px var(--purp);
+
+}

@@ -1,0 +1,47 @@
+.card-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+    background-color: var(--grey);
+  }
+  
+  .card-item {
+    justify-content: center;
+    padding-top: 14px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 14px;
+    background-color: var(--dark);
+  }
+  
+    
+  .language-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 25px;
+  }
+  
+  .language-skills {
+    color: var(--turq);
+    text-align: center;
+    padding-left: 20px;
+  }
+  
+
+
+  @media screen and (max-width: 780px) {
+    .card-flex {
+      justify-content: center;
+    }
+    .card-flex-item {
+      flex-direction: column;
+      align-items: center;
+      width: 80%;
+    }
+  }

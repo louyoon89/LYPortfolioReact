@@ -1,0 +1,39 @@
+.aboutme {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: var(--purp) 5px solid;
+    background-color: var(--dark);
+  }
+  
+  .sectiontitle {
+    position: absolute;
+    display: flex;
+    flex: wrap;
+    padding: 2rem;
+    height: 100px;
+    width: 150px;
+    border-right: solid 2px var(--purp);
+  }
+  
+  .profilepic {
+    display: flex;
+    flex: wrap;
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid var(--purp);
+    margin-left: 200px;
+    margin-right: 50px;
+  }
+  
+  .aboutmecontent {
+    display: flex;
+    flex: 30%;
+    flex-wrap: wrap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+    width: 600px
+  }

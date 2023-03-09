@@ -1,0 +1,24 @@
+.mainpagepic {
+  display: flex;
+  position: relative;
+  height: 400px;
+  width: 100%;
+  background-image: url("../../../public/images/mainpageimage.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 1px solid var(--purp);
+  background-color: var(--grey);
+  margin-bottom: 25px;
+  border-bottom: solid var(--purp);
+}
+
+.mainpagepic #piccap {
+  width: fit-content;
+  border: 3px double var(--purp);
+  background-image: linear-gradient(var(--purp) 0%, var(--turq) 100%);
+  color: var(--grey);
+  padding: 1rem;
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+}
