@@ -12,7 +12,6 @@ export default function About() {
           <img
             className="profile-picture"
             src={avatarMaker}
-            alt="George Melies moon rocket"
           ></img>
         </div>
         <p class="aboutmecontent">
