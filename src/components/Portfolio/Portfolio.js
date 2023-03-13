@@ -8,13 +8,6 @@ export default function Portfolio() {
   return (
     <section>
       <h1>Skills / Projects</h1>
-      <div className="language-list">
-        <p className="language-skills">HTML5</p>
-        <p className="language-skills">CSS</p>
-        <p className="language-skills">Javascript</p>
-        <p className="language-skills">Node</p>
-        <p className="language-skills">React</p>
-      </div>
       <div className="card-flex">
         <section className="card-item">
           {projectList.map((card) => {
@@ -29,6 +22,13 @@ export default function Portfolio() {
             );
           })}
         </section>
+      </div>
+      <div className="language-list">
+        <p className="language-skills">HTML5</p>
+        <p className="language-skills">CSS</p>
+        <p className="language-skills">Javascript</p>
+        <p className="language-skills">Node</p>
+        <p className="language-skills">React</p>
       </div>
     </section>
   );
