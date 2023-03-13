@@ -34,8 +34,3 @@
   padding: 5px;
 }
 
-@media screen and (max-width: 780px) {
-  .card-flex-wrapper {
-    width: 90%;
-  }
-}
