@@ -1,4 +1,11 @@
 [
+    {
+    "name": "GamerMatch",
+    "image": "/images/mainpageimage.jpg",
+    "github": "https://github.com/Ryan-M-Taylor/Gamer-Match",
+    "deployment": "https://peaceful-brook-99319.herokuapp.com/"
+
+  },
   {
     "name": "Beerstack",
     "image": "/images/mainpageimage.jpg",
@@ -32,13 +39,6 @@
     "image": "/images/mainpageimage.jpg",
     "github": "https://github.com/louyoon89/Week-4-Challenge-Web-APIs-Code-Quiz",
     "deployment": "https://louyoon89.github.io/Week-4-Challenge-Web-APIs-Code-Quiz/"
-
-  },
-  {
-    "name": "Random Password Generator",
-    "image": "/images/mainpageimage.jpg",
-    "github": "https://github.com/louyoon89/WEEK-3-Challenge",
-    "deployment": "https://louyoon89.github.io/WEEK-3-Challenge/"
 
   }
 ]
